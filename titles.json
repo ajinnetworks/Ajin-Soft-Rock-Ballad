@@ -1,0 +1,38 @@
+{
+  "_설명": {
+    "title 규칙": "영문만 / 한글만 / 영문+한글 혼용 모두 가능. 예: 'Good Day' / '좋은 날' / 'Good Day / 좋은 날'",
+    "artist 규칙": "아티스트명 자유 입력",
+    "year 규칙": "연도 · 장르 자유 입력. 예: '2025 · Korean Ballad'",
+    "cover 규칙": "트랙별 커버 이미지 URL. 생략 시 공통 cover-ajin.jpg 사용"
+  },
+
+  "Carpenters-Yesterday-Once-More.mp3": {
+    "title": "Yesterday Once More / 어제처럼 또다시",
+    "artist": "The Carpenters",
+    "year": "1973 · Soft Rock"
+  },
+
+  "Jim-Croces-Time-In-A-Bottle.mp3": {
+    "title": "Time in a Bottle / 시간을 병에 담아",
+    "artist": "Jim Croce",
+    "year": "1973 · Folk Rock"
+  },
+
+  "The-Light-Left-at-Dawn25.mp3": {
+    "title": "The Light Left at Dawn / 새벽빛이 머물던 곳",
+    "artist": "Ajin Soft Rock Ballad",
+    "year": "2025 · Soft Rock"
+  },
+
+  "Where-Silence-Holds-Your-Name.mp3": {
+    "title": "Where Silence Holds Your Name / 침묵이 네 이름을 품는 곳",
+    "artist": "Ajin Soft Rock Ballad",
+    "year": "2025 · Soft Rock Ballad"
+  },
+
+  "good-day.mp3": {
+    "title": "Good Day / 좋은 날",
+    "artist": "Ajin Soft Rock Ballad",
+    "year": "2025 · Korean Ballad"
+  }
+}
